@@ -7,7 +7,7 @@ class WeatherServices {
   fetchWeather() async {
     final response = await http.get(
       Uri.parse(
-          "https://api.openweathermap.org/data/2.5/weather?lat=22.8252&lon=70.8491&appid=b40274ecbe77598db6ece2c999b23c35"),
+          "https://api.openweathermap.org/data/2.5/weather?lat=[Enter your latitude]&lon=[Enter Your Longitude]&appid=<your Api ID >"),
     );
     try {
       if (response.statusCode == 200) {
@@ -17,6 +17,7 @@ class WeatherServices {
         throw Exception("Failed to Fetch Data");
       }
     } catch (e) {
+      // ignore: avoid_print
       print(e.toString());
     }
   }
