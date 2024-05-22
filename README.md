@@ -3,6 +3,8 @@
 
 Welcome to the **Weather App**! This application provides real-time weather updates including current date, time, location, humidity, minimum and maximum temperature, wind speed, pressure, and sea level using the [OpenWeatherMap API](https://openweathermap.org/api).
 
+⚠️Please wait for gif to be loaded!
+
 ![Weather app 1](https://github.com/siddhu1919/Flutter-Weather-App-For-Beginners/assets/85176765/b8c470af-df40-4abb-9d12-f67c3616431f)
 
 
@@ -19,13 +21,13 @@ Welcome to the **Weather App**! This application provides real-time weather upda
 
 ## 📸 Screenshots
 
-| Home Screen | 
-![HomeScreen](https://github.com/siddhu1919/Flutter-Weather-App-For-Beginners/assets/85176765/164b2118-ebcd-4e48-82e5-6aa0fdc85bd9)
+# Home Screen 
+![HomeScreen](https://github.com/siddhu1919/Flutter-Weather-App-For-Beginners/assets/85176765/164b2118-ebcd-4e48-82e5-6aa0fdc85bd9|width=10)
 
-Weather Details | 
+# Weather Details  
 ![Weather Details](https://github.com/siddhu1919/Flutter-Weather-App-For-Beginners/assets/85176765/e6d86b67-7009-4ac4-9733-08b6a69ccc90)
 
-Loading Screen |
+# Loading Screen 
 ![Loading Screen](https://github.com/siddhu1919/Flutter-Weather-App-For-Beginners/assets/85176765/fc69572c-106e-4760-a97c-5946368c144e)
 
 
