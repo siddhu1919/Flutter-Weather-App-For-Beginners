@@ -121,8 +121,9 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 🌐 Links
 
-- **Project Repository:** [GitHub](https://github.com/your-username/weather-app)
+- **Project Repository:** [GitHub](https://github.com/siddhu1919/Flutter-Weather-App-For-Beginners)
 - **OpenWeatherMap:** [API Documentation](https://openweathermap.org/api)
+- **Linkedin:** [Siddharth G Singh](https://www.linkedin.com/in/siddharth-g-singh-46b610201/)
 
 ---
 
