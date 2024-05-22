@@ -24,6 +24,7 @@ Welcome to the **Weather App**! This application provides real-time weather upda
 # Home Screen 
 ![HomeScreen](https://github.com/siddhu1919/Flutter-Weather-App-For-Beginners/assets/85176765/164b2118-ebcd-4e48-82e5-6aa0fdc85bd9|width=10)
 
+<img src="https://github.com/siddhu1919/Flutter-Weather-App-For-Beginners/assets/85176765/164b2118-ebcd-4e48-82e5-6aa0fdc85bd9"  width="200" height="400" />
 # Weather Details  
 ![Weather Details](https://github.com/siddhu1919/Flutter-Weather-App-For-Beginners/assets/85176765/e6d86b67-7009-4ac4-9733-08b6a69ccc90)
 
